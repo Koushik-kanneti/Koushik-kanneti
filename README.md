@@ -47,7 +47,6 @@ I’m a data-driven problem solver with experience across the data lifecycle —
 
 🔗 [LinkedIn](https://linkedin.com/in/YOUR-LINK-HERE)  
 📫 Email: koushikkanneti123@gmail.com  
-🌐 Portfolio / Blog: *Coming Soon*
 
 ---
 
