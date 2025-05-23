@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Koushik (Kanneti Naga Shiva Sai Ram Koushik)
 
-🚀 Data Scientist | ML Engineer | Data Analyst | AI Enthusiast  
+🚀 Data Scientist| Data Engineer | ML Engineer | Data Analyst | AI Enthusiast  
 🎓 MS in Business Analytics @ UIUC | Ex-IQVIA | Building AI-first fintech tools
 
 ---
